@@ -47,9 +47,7 @@ Tabela de conteúdos
     <ul>
        <li>Inserir o nome do Baba (Padrão o dia da semana);</li>
        <li>Inserir a data do Baba;</li>
-    </ul>
-  <li>Coffee</li>
-		
+    </ul>	
 </ul>
 
 <p align="left">
