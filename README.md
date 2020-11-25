@@ -39,19 +39,14 @@ Tabela de conteúdos
 - [ ] Exibir Tabela de Resultados do Baba; 🚧  🚀 Em construção...  🚧
 
 
-
 #### - Principais Funções Implementadas:
-* ### Criação de um Novo Baba:
-   * Inserir o nome do Baba (Padrão o dia da semana);
-   * Inserir a data do Baba;
 
 ## Sobre
-### Criação de um Novo Baba:
 <ul>
-  <li><b>Criação de um Novo Baba<b></li>
+  <li><b>Criação de um Novo Baba</b></li>
     <ul>
-       <li>Coffee</li>
-       <li>Coffee</li>
+       <li>Inserir o nome do Baba (Padrão o dia da semana);</li>
+       <li>Inserir a data do Baba;</li>
     </ul>
   <li>Coffee</li>
 		
