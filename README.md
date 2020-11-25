@@ -15,6 +15,7 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre](#Sobre)
+   * [Features Resume](#Features Resume)
    * [Tecnologias](#tecnologias)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
