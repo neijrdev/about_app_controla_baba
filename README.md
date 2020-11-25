@@ -27,6 +27,8 @@ Tabela de conteúdos
      * [Sorteio dos Jogadores](#--sorteio-dos-jogadores-individual-ou-por-nomes)
      * [Salvar Babas no Celular](#--salvar-babas-no-celular)
    * [Principais Features a Implementar](#principais-futures-implementadas)
+    * [Criação de um novo BABA](#--cria%C3%A7%C3%A3o-de-um-novo-baba)
+    * [Criação de um novo BABA](#--cria%C3%A7%C3%A3o-de-um-novo-baba)
      
    * [Tecnologias](#tecnologias)
    * [Como usar](#como-usar)
@@ -102,7 +104,7 @@ Tabela de conteúdos
 </p>
 	
 ## 🚧 Principais Futures a Implementar:🚀 🚧
-### - Partidas
+### - Controlar Partidas
 <ul>
   <li>Será possível criar e controlar as partidas em Tempo real;</li>
   <li>Poderá ser configurado nas partidas, a duração e se deseja finalizar a partida por quantidade de gols, e qual quantidade seria.</li>
@@ -111,12 +113,12 @@ Tabela de conteúdos
   <li>Opção de desempatar partida, de forma randômica</li>
 </ul>
 
-### - Configuração Pontuação Partidas
+### - Configuração da Pontuação nas Partidas
 <ul>
   <li>Será possível alterar a quantidade de pontos quando time ganhar ou empatar.</li>
 </ul>
 
-### - Resultados Partidas
+### - Resultados das Partidas
 <ul>
   <li>Irá mostrar um podium com os três times com o melhor resultado.</li>
   <li>Irá mostrar uma tabela de classificação com os pontos e os gols de todos os times do baba</li>
