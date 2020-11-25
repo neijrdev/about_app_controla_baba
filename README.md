@@ -118,6 +118,9 @@ Tabela de conteúdos
   <li>Quando tiver uma partida em andamento poderá lançar os gols de cada time e haverá um marcado de tempo</li>
   <li>Opção de desempatar partida, de forma randômica</li>
 </ul>
+<p align="left">
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/partida_em_andamento.png?raw=true" height="auto" width="900" alt="Logo Controla Baba" 
+</p>
 
 ### - Configuração da Pontuação nas Partidas
 <ul>
