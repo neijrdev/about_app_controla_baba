@@ -43,7 +43,7 @@ Tabela de conteúdos
 
 ## - Principais Funções Implementadas:
 
-## - Criação de um Novo Baba
+### - Criação de um Novo Baba
 <ul>
   <li>Inserir o nome do Baba (Padrão o dia da semana);</li>
   <li>Inserir a data do Baba;</li>
