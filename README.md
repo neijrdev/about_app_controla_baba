@@ -45,12 +45,10 @@ Tabela de conteúdos
 
 ### Criação de um Novo Baba
 <ul>
-  <li>
     <ul>
        <li>Inserir o nome do Baba (Padrão o dia da semana);</li>
        <li>Inserir a data do Baba;</li>
     </ul>
-  </li>
 </ul>
 <p align="left">
    <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
