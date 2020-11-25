@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/gif_open_app.gif?raw=true" height="auto" width="600" alt="Logo Controla Baba" 
+  <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/gif_open_app.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
 </p>
 
 
