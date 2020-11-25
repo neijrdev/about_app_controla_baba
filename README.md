@@ -101,7 +101,7 @@ Tabela de conteúdos
    <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
 </p>
 	
-## Principais Futures a Implementar:
+## 🚧 Principais Futures a Implementar:🚀 🚧
 ### - Partidas
 <ul>
   <li>Será possível criar e controlar as partidas em Tempo real;</li>
