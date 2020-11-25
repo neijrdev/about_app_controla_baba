@@ -109,8 +109,9 @@ Tabela de conteúdos
    <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
 </p>
 	
-## 🚧 Principais Futures a Implementar:🚀 🚧
-### - Controlar Partidas
+## 🚧 Principais Futures a Implementar:🚀
+
+### - Controlar Partidas 🚧 Em construção... 🚧
 <ul>
   <li>Será possível criar e controlar as partidas em Tempo real;</li>
   <li>Poderá ser configurado nas partidas, a duração e se deseja finalizar a partida por quantidade de gols, e qual quantidade seria.</li>
@@ -120,7 +121,7 @@ Tabela de conteúdos
 </ul>
 
 
-### - Configuração da Pontuação nas Partidas
+### - Configuração da Pontuação nas Partidas 🚧 Em construção... 🚧
 <ul>
   <li>Será possível alterar a quantidade de pontos quando time ganhar ou empatar.</li>
 </ul>
@@ -130,7 +131,7 @@ Tabela de conteúdos
 
 
 
-### - Resultados das Partidas
+### - Resultados das Partidas 🚧 Em construção... 🚧
 <ul>
   <li>Irá mostrar um podium com os três times com o melhor resultado.</li>
   <li>Irá mostrar uma tabela de classificação com os pontos e os gols de todos os times do baba</li>
