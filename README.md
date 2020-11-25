@@ -14,7 +14,7 @@
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre](#Sobre o APP)
+   * [Sobre](##Sobre o APP)
    * [Tecnologias](#tecnologias)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
@@ -34,7 +34,7 @@ Tabela de conteúdos
 
 
 
-## Sobre o APP
+##Sobre o APP
 - Principais Funções Implementadas:
  * Criação de um Novo Baba:
    * Inserir o nome do Baba (Padrão o dia da semana);
