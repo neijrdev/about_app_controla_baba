@@ -1,6 +1,6 @@
 <h1 align="center">Sobre o App Controla Baba</h1>
 <p align="center">
-  <img src="https://github.com/neijrdev/about_app_controla_baba/blob/main/assets/banner_app_menor_to_git.png?raw=true" height="auto" width="600" alt="Logo Controla Baba" align="center">
+  <img src="https://github.com/neijrdev/about_app_controla_baba/blob/main/assets/banner_app_menor_to_git.png?raw=true" height="auto" width="600" alt="Logo Controla Baba" 
 </p>
 
 
@@ -9,6 +9,11 @@
 <h4 align="center"> 
 	🚧  App Controla Baba 🚀 Em construção...  🚧
 </h4>
+
+
+<p align="center">
+  <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/gif_open_app.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
+</p>
 
 
 Tabela de conteúdos
