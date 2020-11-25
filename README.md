@@ -82,8 +82,8 @@ Tabela de conteúdos
 </ul>	
 
 <div display={display:flex}>
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/config_teams.png?raw=true" height="auto" width="300" alt="Nova Config Baba" 
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/config_teams.png?raw=true" height="auto" width="300" alt="Nova Config Baba"> 
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba"> 
 </div>
 
 	
