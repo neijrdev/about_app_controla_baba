@@ -21,7 +21,7 @@ Tabela de conteúdos
 <!--ts-->
    * [Sobre](#Sobre)
    * [Features Resume](#Features-Resume)
-   * [Criação dos Times:](#Criação dos Times:)
+   * [Criação dos Times:](#Criação-dos-Times:)
    * [Tecnologias](#tecnologias)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
