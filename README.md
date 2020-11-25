@@ -45,6 +45,11 @@ Tabela de conteúdos
  * Criação de um Novo Baba:
    * Inserir o nome do Baba (Padrão o dia da semana);
    * Inserir a data do Baba;
+
+<p align="center">
+  <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
+</p>
+
 * Criação e Sorteio dos Times: ( O usuário irá inserir a quantidade total de jogodores e jogadores por time).
   * O Controla Baba Gera a quantidade de times automaticamente;
   * Caso sobrem algums jogadores ele da opção de colocar como reservas ou criar um novo time;
