@@ -41,7 +41,7 @@ Tabela de conteúdos
 
 ## Sobre
 
-## - Principais Funções Implementadas:
+## Principais Funções Implementadas:
 
 ### - Criação de um Novo Baba
 <ul>
@@ -53,7 +53,7 @@ Tabela de conteúdos
    <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
 </p>
 
-## Criação/Configuração dos Times:
+### - Criação/Configuração dos Times:
 <ul>
   <li>O usuário irá editar a quantidade total de jogodores e os jogadores por time;</li>
   <li>Poderá marcar a opção ou não de sortear os goleiros em cada time;</li>
