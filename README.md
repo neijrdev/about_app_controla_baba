@@ -63,9 +63,9 @@ Tabela de conteúdos
 </ul>
 
 <div display={display:flex}>
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/home.png?raw=true" height="600" width="auto" alt="Logo Controla Baba" >
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/new_baba.png?raw=true" height="600px"width="auto" alt="Logo Controla Baba" >
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="600px" width="auto" alt="Logo Controla Baba" >
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/home.png?raw=true" height="600" width="auto" alt="Home Controla Baba" >
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/new_baba.png?raw=true" height="600px"width="auto" alt="Novo Baba" >
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="600px" width="auto" alt="Editar Nome e Data Baba" >
 </div>
    
 </p>
@@ -81,9 +81,10 @@ Tabela de conteúdos
   <li>Caso sobrem algums jogadores ele da opção de colocar como reservas ou criar um novo time;</li>
 </ul>	
 
-<p align="left">
+<div display={display:flex}>
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/config_teams.png?raw=true" height="auto" width="300" alt="Nova Config Baba" 
    <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
-</p>
+</div>
 
 	
 ### - Sorteio dos Jogadores: (Individual ou Por Nomes)
