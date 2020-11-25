@@ -39,8 +39,9 @@ Tabela de conteúdos
 
 ## Principais Tecnologias Utilizadas
 <ul>
-  <li>React</li>
-  <li>Inserir a data do Baba;</li>
+  <li>React;</li>
+  <li>React Native;</li>
+  <li>Styled Components;</li>	
 </ul>
 
 ## Features Resume:
