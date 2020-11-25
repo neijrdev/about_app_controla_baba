@@ -4,7 +4,7 @@
 </p>
 
 
-<p align="center">O Conrtola baba é um App Android Mobile, que nasceu com o propósito de tornar a organização dos babas, ou peladas, mais fácil e de uma forma super dinámica e intuitiva.</p>
+<p align="center">O Controla baba é um App Android Mobile, que nasceu com o propósito de tornar a organização dos babas, ou peladas, mais fácil e de uma forma super dinámica e intuitiva.</p>
 
 <h4 align="center"> 
 	🚧  App Controla Baba 🚀 Em construção...  🚧
@@ -21,21 +21,26 @@ Tabela de conteúdos
 <!--ts-->
    * [Sobre](#Sobre)
    * [Features Resume](#Features-Resume)
+   * [Principais Tecnologias Utilizadas](#tecnologias)
    * [Principais Features Implementadas](#principais-futures-implementadas)
      * [Criação de um novo BABA](#--cria%C3%A7%C3%A3o-de-um-novo-baba)
      * [Criação/Configuração dos Times](#--cria%C3%A7%C3%A3oconfigura%C3%A7%C3%A3o-dos-times)
      * [Sorteio dos Jogadores](#--sorteio-dos-jogadores-individual-ou-por-nomes)
      * [Salvar Babas no Celular](#--salvar-babas-no-celular)
    * [Principais Features a Implementar](#principais-futures-implementadas)
-    * [Criação de um novo BABA](#--cria%C3%A7%C3%A3o-de-um-novo-baba)
-    * [Criação de um novo BABA](#--cria%C3%A7%C3%A3o-de-um-novo-baba)
-     
-   * [Tecnologias](#tecnologias)
+     * [Controlar Partidas](#--controlar-partidas)
+     * [Configurar Pontuação das Partidas](#--configura%C3%A7%C3%A3o-da-pontua%C3%A7%C3%A3o-nas-partidas)
+     * [Resultados das Partidas](#--resultados-das-partidas)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
 
 <!--te-->
 
+## Principais Tecnologias Utilizadas
+<ul>
+  <li>React</li>
+  <li>Inserir a data do Baba;</li>
+</ul>
 
 ## Features Resume:
 - [x] Criação de um Novo Baba;
@@ -47,7 +52,6 @@ Tabela de conteúdos
 - [ ] Controle das partidas (Contar Tempo, Goals e Pontos); 🚀 Em construção...  🚧 
 - [ ] Exibir Tabela de Resultados do Baba; 🚀 Em construção...  🚧
 
-## Sobre
 
 ## Principais Futures Implementadas:
 
