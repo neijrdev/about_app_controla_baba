@@ -63,9 +63,9 @@ Tabela de conteúdos
 </ul>
 
 <div display={display:flex}>
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/home.png?raw=true" height="auto" width="30%" alt="Logo Controla Baba" >
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/new_baba.png?raw=true" height="auto" width="30%" alt="Logo Controla Baba" >
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="25.5%" alt="Logo Controla Baba" >
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/home.png?raw=true" height="600" width="auto" alt="Logo Controla Baba" >
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/new_baba.png?raw=true" height="600px"width="auto" alt="Logo Controla Baba" >
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="600px" width="auto" alt="Logo Controla Baba" >
 </div>
    
 </p>
