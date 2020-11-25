@@ -31,7 +31,7 @@ Tabela de conteúdos
 <!--te-->
 
 
-### Features Resume:
+## Features Resume:
 - [x] Criação de um Novo Baba;
 - [x] Sorteio de Jogadores (incluindo Goleiros e Reservas);
 - [x] Sorteio de Times;
@@ -85,11 +85,22 @@ Tabela de conteúdos
 <p align="left">
    <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
 </p>
+	
+### - Salvar Babas no Celular
+<ul>
+  <li>Os sorteios dos Babas são salvos na memória do Celular automaticamente ao Sortear as Partidas;</li>
+</ul>
 
- 
+<p align="left">
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
+</p>
+<ul>
+  <li>Pode abrir visualizar todos os Babas salvos, abrir, editar, resortear ou excluir da memória;</li>
+</ul>
 
-* Salvar Babas no Celular
- * Os sorteios dos Babas são salvos na memória do Celular automaticamente ao Sortear as Partidas;
- * Pode abrir visualizar todos os Babas salvos, abrir, editar, resortear ou excluir da memória.
+<p align="left">
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
+</p>
+
 
 
