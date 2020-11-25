@@ -1,6 +1,8 @@
 <h1 align="center">Sobre o App Controla Baba</h1>
+<p align="center">
+  <img src="https://github.com/neijrdev/about_app_controla_baba/blob/main/assets/banner_app_menor_to_git.png?raw=true" height="231" width="300" alt="Logo Controla Baba" align="center">
+</p>
 
-<img src="https://github.com/neijrdev/about_app_controla_baba/blob/main/assets/banner_app_menor_to_git.png?raw=true" alt="Logo Controla Baba" align="center">
 
 <p align="center">Este App nasceu com o propósito de tornar a organização dos babas, ou peladas, mais fácil e de uma forma super dinámica e intuitiva.</p>
 
