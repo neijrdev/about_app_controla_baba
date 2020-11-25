@@ -40,11 +40,22 @@ Tabela de conteúdos
 
 
 
-## Sobre
 #### - Principais Funções Implementadas:
-### * Criação de um Novo Baba:
+* ### Criação de um Novo Baba:
    * Inserir o nome do Baba (Padrão o dia da semana);
    * Inserir a data do Baba;
+
+## Sobre
+### Criação de um Novo Baba:
+<ul>
+  <li><b>Criação de um Novo Baba<b></li>
+    <ul>
+       <li>Coffee</li>
+       <li>Coffee</li>
+    </ul>
+  <li>Coffee</li>
+		
+</ul>
 
 <p align="left">
   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
