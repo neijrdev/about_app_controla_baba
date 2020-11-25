@@ -74,7 +74,7 @@ Tabela de conteúdos
 
 ### - Criação/Configuração dos Times:
 <ul>
-  <li>O usuário irá editar a quantidade total de jogodores e os jogadores por time;</li>
+  <li>O usuário irá editar a quantidade total de jogadores e os jogadores por time;</li>
   <li>Poderá marcar a opção ou não de sortear os goleiros em cada time;</li>
   <li>Pode editar o nomes dos times;</li>
   <li>Ao inserir os dados acima o App Controla Baba gera a quantidade de times automaticamente;</li>
