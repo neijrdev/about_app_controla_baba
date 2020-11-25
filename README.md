@@ -21,9 +21,9 @@ Tabela de conteúdos
 <!--ts-->
    * [Sobre](#Sobre)
    * [Features Resume](#Features-Resume)
-   * [Principais Funções Implementadas](#principais-fun%C3%A7%C3%B5es-implementadas)
-   * [Criação de um novo BABA](#--cria%C3%A7%C3%A3o-de-um-novo-baba)
-   * [Criação/Configuração dos Times](#cria%C3%A7%C3%A3oconfigura%C3%A7%C3%A3o-dos-times)
+   * [Principais Features Implementadas](#principais-futures-implementadas)
+     * [Criação de um novo BABA](#--cria%C3%A7%C3%A3o-de-um-novo-baba)
+     * [Criação/Configuração dos Times](#cria%C3%A7%C3%A3oconfigura%C3%A7%C3%A3o-dos-times)
    * [Tecnologias](#tecnologias)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
@@ -43,7 +43,7 @@ Tabela de conteúdos
 
 ## Sobre
 
-## Principais Funções Implementadas:
+## Principais Futures Implementadas:
 
 ### - Criação de um Novo Baba
 <ul>
