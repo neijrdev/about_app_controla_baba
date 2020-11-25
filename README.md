@@ -33,7 +33,7 @@ Tabela de conteúdos
 
 
 
-#Sobre o APP
+## Sobre o APP
 - Principais Funções Implementadas:
  * Criação de um Novo Baba:
    * Inserir o nome do Baba (Padrão o dia da semana);
