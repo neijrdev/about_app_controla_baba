@@ -68,6 +68,7 @@ Tabela de conteúdos
    <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
 </p>
 	
+=================
 ### - Sorteio dos Jogadores: (Individual ou Por Nomes)
 <ul>
   <li><b>Sorteio individual:</b> Cada click no botão sortear irá sortear um jogador.</li>
@@ -86,21 +87,18 @@ Tabela de conteúdos
    <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
 </p>
 	
+=================	
+	
 ### - Salvar Babas no Celular
 <ul>
   <li>Os sorteios dos Babas são salvos na memória do Celular automaticamente ao Sortear as Partidas;</li>
-</ul>
-
-<p align="left">
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
-</p>
-<ul>
   <li>Pode abrir visualizar todos os Babas salvos, abrir, editar, resortear ou excluir da memória;</li>
 </ul>
 
 <p align="left">
    <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
 </p>
+
 
 
 
