@@ -48,20 +48,38 @@ Tabela de conteúdos
     <ul>
        <li>Inserir o nome do Baba (Padrão o dia da semana);</li>
        <li>Inserir a data do Baba;</li>
-	<li>
-	  <p align="left">
-            <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
-          </p>
-	</li>
     </ul>	
 </ul>
+<p align="left">
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
+</p>
 
+<ul>
+  <li><h3>Criação dos Times: ( O usuário irá inserir a quantidade total de jogodores e os jogadores por time).</b></h3>
+    <ul>
+       <li>Pode editar o nomes dos times;</li>
+       <li>O Controla Baba Gera a quantidade de times automaticamente;</li>
+       <li>Caso sobrem algums jogadores ele da opção de colocar como reservas ou criar um novo time;</li>
+    </ul>	
+</ul>
+<p align="left">
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
+</p>
+	
+	
+<ul>
+  <li><h3>Sorteio dos Jogadores: (Individual ou Por Nomes)</b></h3>
+    <ul>
+       <li>Sorteio individual, cada click no botão sortear irá sortear um jogador.</li>
+       <li>Sorteio por nomes, pode editar o nome de cada jogador e ao clicar em Sortear serão sorteados todos os times.</li>
+    </ul>	
+</ul>
+<p align="left">
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
+</p>
 
-#### * Criação e Sorteio dos Times: ( O usuário irá inserir a quantidade total de jogodores e jogadores por time).
-  * O Controla Baba Gera a quantidade de times automaticamente;
-  * Caso sobrem algums jogadores ele da opção de colocar como reservas ou criar um novo time;
-* Pode editar o nomes dos times;
-* Pode fazer o sorteio dos times inserindo os nomes dos jogadores, ou individualmente clicando no bortão sortear;
+ 
+
 * Salvar Babas no Celular
  * Os sorteios dos Babas são salvos na memória do Celular automaticamente ao Sortear as Partidas;
  * Pode abrir visualizar todos os Babas salvos, abrir, editar, resortear ou excluir da memória.
