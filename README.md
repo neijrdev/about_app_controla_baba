@@ -41,7 +41,7 @@ Tabela de conteúdos
 
 ## Sobre
 
-#### - Principais Funções Implementadas:
+## - Principais Funções Implementadas:
 
 <ul>
   <li><h2>Criação de um Novo Baba</b></h2>
