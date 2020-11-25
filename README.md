@@ -118,20 +118,26 @@ Tabela de conteúdos
   <li>Quando tiver uma partida em andamento poderá lançar os gols de cada time e haverá um marcado de tempo</li>
   <li>Opção de desempatar partida, de forma randômica</li>
 </ul>
-<p align="left">
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/partida_em_andamento.png?raw=true" height="auto" width="900" alt="Logo Controla Baba" 
-</p>
+
 
 ### - Configuração da Pontuação nas Partidas
 <ul>
   <li>Será possível alterar a quantidade de pontos quando time ganhar ou empatar.</li>
 </ul>
+<p align="left">
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/config_pontos_partidas.png?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
+</p>
+
+
 
 ### - Resultados das Partidas
 <ul>
   <li>Irá mostrar um podium com os três times com o melhor resultado.</li>
   <li>Irá mostrar uma tabela de classificação com os pontos e os gols de todos os times do baba</li>
 </ul>
+<p align="left">
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/resultados_partidas.png?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
+</p>
 
 
 
