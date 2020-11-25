@@ -24,8 +24,9 @@ Tabela de conteúdos
    * [Principais Features Implementadas](#principais-futures-implementadas)
      * [Criação de um novo BABA](#--cria%C3%A7%C3%A3o-de-um-novo-baba)
      * [Criação/Configuração dos Times](#--cria%C3%A7%C3%A3oconfigura%C3%A7%C3%A3o-dos-times)
-     * [Sorteio dos Jagadores](#--sorteio-dos-jogadores-individual-ou-por-nomes)
+     * [Sorteio dos Jogadores](#--sorteio-dos-jogadores-individual-ou-por-nomes)
      * [Salvar Babas no Celular](#--salvar-babas-no-celular)
+   * [Principais Features a Implementar](#principais-futures-implementadas)
      
    * [Tecnologias](#tecnologias)
    * [Como usar](#como-usar)
@@ -99,6 +100,27 @@ Tabela de conteúdos
 <p align="left">
    <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
 </p>
+	
+## Principais Futures a Implementar:
+### - Partidas
+<ul>
+  <li>Será possível criar e controlar as partidas em Tempo real;</li>
+  <li>Poderá ser configurado nas partidas, a duração e se deseja finalizar a partida por quantidade de gols, e qual quantidade seria.</li>
+  <li>Terá uma tela que mostrará todas as partidas finalizadas e as em andamento.</li>
+  <li>Quando tiver uma partida em andamento poderá lançar os gols de cada time e haverá um marcado de tempo</li>
+  <li>Opção de desempatar partida, de forma randômica</li>
+</ul>
+
+### - Configuração Pontuação Partidas
+<ul>
+  <li>Será possível alterar a quantidade de pontos quando time ganhar ou empatar.</li>
+</ul>
+
+### - Resultados Partidas
+<ul>
+  <li>Irá mostrar um podium com os três times com o melhor resultado.</li>
+  <li>Irá mostrar uma tabela de classificação com os pontos e os gols de todos os times do baba</li>
+</ul>
 
 
 
