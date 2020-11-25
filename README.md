@@ -21,6 +21,7 @@ Tabela de conteúdos
 <!--ts-->
    * [Sobre](#Sobre)
    * [Features Resume](#Features-Resume)
+   * [Features Resume](#Features-Resume)
    * [Tecnologias](#tecnologias)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
@@ -38,12 +39,12 @@ Tabela de conteúdos
 - [ ] Controle das partidas (Contar Tempo, Goals e Pontos); 🚧  🚀 Em construção...  🚧 
 - [ ] Exibir Tabela de Resultados do Baba; 🚧  🚀 Em construção...  🚧
 
+## Sobre
 
 #### - Principais Funções Implementadas:
 
-## Sobre
 <ul>
-  <li><b>Criação de um Novo Baba</b></li>
+  <li><h2>Criação de um Novo Baba</b></h2>
     <ul>
        <li>Inserir o nome do Baba (Padrão o dia da semana);</li>
        <li>Inserir a data do Baba;</li>
