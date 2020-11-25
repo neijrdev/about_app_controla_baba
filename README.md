@@ -4,7 +4,7 @@
 </p>
 
 
-<p align="center">Este App nasceu com o propósito de tornar a organização dos babas, ou peladas, mais fácil e de uma forma super dinámica e intuitiva.</p>
+<p align="center">O Conrtola baba é um App Android Mobile, que nasceu com o propósito de tornar a organização dos babas, ou peladas, mais fácil e de uma forma super dinámica e intuitiva.</p>
 
 <h4 align="center"> 
 	🚧  App Controla Baba 🚀 Em construção...  🚧
@@ -14,10 +14,11 @@
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre](#Sobre o APP - Principais Funções:)
+   * [Sobre](#Sobre o APP)
+   * [Tecnologias](#tecnologias)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
-   * [Tecnologias](#tecnologias)
+
 <!--te-->
 
 
