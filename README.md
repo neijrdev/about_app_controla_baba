@@ -69,8 +69,16 @@ Tabela de conteúdos
 ### Sorteio dos Jogadores: (Individual ou Por Nomes)
 <ul>
   <li>Sorteio individual, cada click no botão sortear irá sortear um jogador.</li>
-  <li>Sorteio por nomes, pode editar o nome de cada jogador e ao clicar em Sortear serão sorteados todos os times.</li>
 </ul>	
+
+<p align="left">
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
+</p>
+	
+
+<ul>
+  <li>Sorteio por nomes, pode editar o nome de cada jogador e ao clicar em Sortear serão sorteados todos os times.</li>
+</ul>
 
 <p align="left">
    <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
