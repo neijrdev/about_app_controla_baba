@@ -66,7 +66,8 @@ Tabela de conteúdos
    <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
 </p>
 	
-![](https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true)  |  ![](https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true)
+| ------------------- | ------------------- |
+|<img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" | <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" |
 
 ### - Criação/Configuração dos Times:
 <ul>
