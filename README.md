@@ -11,7 +11,6 @@
 	🚧  App Controla Baba 🚀 Em construção...  🚧
 </h4>
 
-
 <p align="center">
   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/gif_open_app_2.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
 </p>
@@ -76,9 +75,10 @@ Tabela de conteúdos
   <li>Caso sobrem algums jogadores ele da opção de colocar como reservas ou criar um novo time;</li>
 </ul>	
 
-<p align="left">
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
-</p>
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true)  |  ![](https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true)
+
 	
 ### - Sorteio dos Jogadores: (Individual ou Por Nomes)
 <ul>
