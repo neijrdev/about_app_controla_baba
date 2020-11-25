@@ -4,6 +4,7 @@
 </p>
 
 
+## Sobre
 <p align="center">O Controla baba é um App Android Mobile, que nasceu com o propósito de tornar a organização dos babas, ou peladas, mais fácil e de uma forma super dinámica e intuitiva.</p>
 
 <h4 align="center"> 
