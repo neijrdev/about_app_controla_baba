@@ -65,6 +65,10 @@ Tabela de conteúdos
 <p align="left">
    <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
 </p>
+	
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true)  |  ![](https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true)
 
 ### - Criação/Configuração dos Times:
 <ul>
