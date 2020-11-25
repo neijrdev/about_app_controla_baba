@@ -36,8 +36,8 @@ Tabela de conteúdos
 - [x] Sorteio de Partidas;
 - [x] Salvar Baba na Memória do Celular;
 - [x] Abrir, Editar, Resortear e Excluir Babas Salvos;
-- [ ] Controle das partidas (Contar Tempo, Goals e Pontos); 🚧  🚀 Em construção...  🚧 
-- [ ] Exibir Tabela de Resultados do Baba; 🚧  🚀 Em construção...  🚧
+- [ ] Controle das partidas (Contar Tempo, Goals e Pontos); 🚀 Em construção...  🚧 
+- [ ] Exibir Tabela de Resultados do Baba; 🚀 Em construção...  🚧
 
 ## Sobre
 
@@ -48,12 +48,14 @@ Tabela de conteúdos
     <ul>
        <li>Inserir o nome do Baba (Padrão o dia da semana);</li>
        <li>Inserir a data do Baba;</li>
+	<li>
+	  <p align="left">
+            <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
+          </p>
+	</li>
     </ul>	
 </ul>
 
-<p align="left">
-  <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
-</p>
 
 #### * Criação e Sorteio dos Times: ( O usuário irá inserir a quantidade total de jogodores e jogadores por time).
   * O Controla Baba Gera a quantidade de times automaticamente;
