@@ -68,7 +68,7 @@ Tabela de conteúdos
 	
 ### Sorteio dos Jogadores: (Individual ou Por Nomes)
 <ul>
-  <li><b>Sorteio individual<b/>, cada click no botão sortear irá sortear um jogador.</li>
+  <li><b>Sorteio individual</b>, cada click no botão sortear irá sortear um jogador.</li>
 </ul>	
 
 <p align="left">
