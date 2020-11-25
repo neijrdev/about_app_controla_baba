@@ -44,7 +44,6 @@ Tabela de conteúdos
 ## - Principais Funções Implementadas:
 
 ### Criação de um Novo Baba
-
 <ul>
   <li>Inserir o nome do Baba (Padrão o dia da semana);</li>
   <li>Inserir a data do Baba;</li>
@@ -54,26 +53,25 @@ Tabela de conteúdos
    <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
 </p>
 
+### Criação/Configuração dos Times:
 <ul>
-  <li><h3>Criação dos Times: ( O usuário irá inserir a quantidade total de jogodores e os jogadores por time).</b></h3>
-    <ul>
-       <li>Pode editar o nomes dos times;</li>
-       <li>O Controla Baba Gera a quantidade de times automaticamente;</li>
-       <li>Caso sobrem algums jogadores ele da opção de colocar como reservas ou criar um novo time;</li>
-    </ul>	
-</ul>
+  <li>O usuário irá editar a quantidade total de jogodores e os jogadores por time;</li>
+  <li>Poderá marcar a opção ou não de sortear os goleiros em cada time;</li>
+  <li>Pode editar o nomes dos times;</li>
+  <li>Ao inserir os dados acima o App Controla Baba gera a quantidade de times automaticamente;</li>
+  <li>Caso sobrem algums jogadores ele da opção de colocar como reservas ou criar um novo time;</li>
+</ul>	
+
 <p align="left">
    <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
 </p>
 	
-	
+### Sorteio dos Jogadores: (Individual ou Por Nomes)
 <ul>
-  <li><h3>Sorteio dos Jogadores: (Individual ou Por Nomes)</b></h3>
-    <ul>
-       <li>Sorteio individual, cada click no botão sortear irá sortear um jogador.</li>
-       <li>Sorteio por nomes, pode editar o nome de cada jogador e ao clicar em Sortear serão sorteados todos os times.</li>
-    </ul>	
-</ul>
+  <li>Sorteio individual, cada click no botão sortear irá sortear um jogador.</li>
+  <li>Sorteio por nomes, pode editar o nome de cada jogador e ao clicar em Sortear serão sorteados todos os times.</li>
+</ul>	
+
 <p align="left">
    <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
 </p>
