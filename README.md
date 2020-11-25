@@ -68,7 +68,7 @@ Tabela de conteúdos
 	
 ### Sorteio dos Jogadores: (Individual ou Por Nomes)
 <ul>
-  <li>Sorteio individual, cada click no botão sortear irá sortear um jogador.</li>
+  <li><b>Sorteio individual<b/>, cada click no botão sortear irá sortear um jogador.</li>
 </ul>	
 
 <p align="left">
@@ -77,7 +77,7 @@ Tabela de conteúdos
 	
 
 <ul>
-  <li>Sorteio por nomes, pode editar o nome de cada jogador e ao clicar em Sortear serão sorteados todos os times.</li>
+   <li><b>Sorteio por nomes</b>, pode editar o nome de cada jogador e ao clicar em Sortear serão sorteados todos os times.</li>
 </ul>
 
 <p align="left">
