@@ -12,7 +12,7 @@
 </h4>
 
 <p align="center">
-  <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/gif_open_app_2.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
+  <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/gif_open_app_2.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba">
 </p>
 
 
@@ -62,12 +62,14 @@ Tabela de conteúdos
   <li>Inserir a data do Baba;</li>
 </ul>
 
-<p align="left">
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
+<div display={display:flex}>
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" >
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" >
+</div>
+   
 </p>
 	
-| ------------------- | ------------------- |
-|<img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" | <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" |
+
 
 ### - Criação/Configuração dos Times:
 <ul>
