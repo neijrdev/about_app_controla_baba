@@ -21,7 +21,7 @@ Tabela de conteúdos
 <!--ts-->
    * [Sobre](#Sobre)
    * [Features Resume](#Features-Resume)
-   * [Principais Tecnologias Utilizadas](#tecnologias)
+   * [Principais Tecnologias Utilizadas](#principais-tecnologias-utilizadas)
    * [Principais Features Implementadas](#principais-futures-implementadas)
      * [Criação de um novo BABA](#--cria%C3%A7%C3%A3o-de-um-novo-baba)
      * [Criação/Configuração dos Times](#--cria%C3%A7%C3%A3oconfigura%C3%A7%C3%A3o-dos-times)
