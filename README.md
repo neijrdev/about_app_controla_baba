@@ -119,9 +119,9 @@ Tabela de conteúdos
 </ul>
 
 <div display={display:flex}>
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_players.png?raw=true" height="600" width="auto" alt="edit_name_players">
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/btn_draw_by_names.png?raw=true" height="600" width="auto" alt="btn_draw_by_names"> 
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/btn_draw_by_names.png?raw=true" height="600" width="auto" alt="btn_draw_by_names">
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/draw_match.png?raw=true" height="600" width="auto" alt="draw_match_teams">
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/drawn_matchs1.png?raw=true" height="600" width="auto" alt="drawn_matchs1"> 
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/drawn_matchs2.png?raw=true" height="600" width="auto" alt="drawn_matchs2">
 </div>
 		
 ### - Salvar Babas no Celular
