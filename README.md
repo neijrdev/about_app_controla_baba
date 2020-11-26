@@ -89,12 +89,16 @@ Tabela de conteúdos
 
 	
 ### - Sorteio dos Jogadores: (Individual ou Por Nomes)
+<p align="left">
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/type_player_draw.png?raw=true" height="auto" width="300" alt="type_player_draw" 
+</p>
+	
 <ul>
   <li><b>Sorteio individual:</b> Cada click no botão sortear irá sortear um jogador.</li>
 </ul>	
 
 <p align="left">
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/btn_draw_individual.png?raw=true" height="auto" width="300" alt="btn_draw_individual" 
 </p>
 	
 
@@ -102,9 +106,10 @@ Tabela de conteúdos
    <li><b>Sorteio por nomes:</b> Pode editar o nome de cada jogador e ao clicar em Sortear serão sorteados todos os times.</li>
 </ul>
 
-<p align="left">
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
-</p>
+<div display={display:flex}>
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_players.png?raw=true" height="600" width="auto" alt="edit_name_players">
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/btn_draw_by_names.png?raw=true" height="600" width="auto" alt="btn_draw_by_names"> 
+</div>
 	
 		
 ### - Salvar Babas no Celular
