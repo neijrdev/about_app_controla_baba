@@ -26,7 +26,7 @@ Tabela de conteúdos
      * [Criação de um novo BABA](#--cria%C3%A7%C3%A3o-de-um-novo-baba)
      * [Criação/Configuração dos Times](#--cria%C3%A7%C3%A3oconfigura%C3%A7%C3%A3o-dos-times)
      * [Sorteio dos Jogadores](#--sorteio-dos-jogadores-individual-ou-por-nomes)
-     * [Sorteio Partidas](#--sorteio-dos-jogadores-individual-ou-por-nomes)
+     * [Sorteio Partidas](#--sortear-partidas)
      * [Salvar Babas no Celular](#--salvar-babas-no-celular)
    * [Principais Features a Implementar](#principais-futures-implementadas)
      * [Controlar Partidas](#--controlar-partidas)
