@@ -134,7 +134,7 @@ Tabela de conteúdos
    <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/storage_cel.png?raw=true" height="500" width="auto" alt="storage_cel" 
 </p>
 	
-## 🚧 Principais Futures a Implementar:🚀
+## 🚧 Principais Futures a Implementar:🚀 Em construção... 🚧
 
 ### - Controlar Partidas 🚧 Em construção... 🚧
 <ul>
