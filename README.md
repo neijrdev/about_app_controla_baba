@@ -131,7 +131,7 @@ Tabela de conteúdos
 </ul>
 
 <p align="left">
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/storage_cel.png?raw=true" height="auto" width="300" alt="storage_cel" 
 </p>
 	
 ## 🚧 Principais Futures a Implementar:🚀
