@@ -26,6 +26,7 @@ Tabela de conteúdos
      * [Criação de um novo BABA](#--cria%C3%A7%C3%A3o-de-um-novo-baba)
      * [Criação/Configuração dos Times](#--cria%C3%A7%C3%A3oconfigura%C3%A7%C3%A3o-dos-times)
      * [Sorteio dos Jogadores](#--sorteio-dos-jogadores-individual-ou-por-nomes)
+     * [Sorteio Partidas](#--sorteio-dos-jogadores-individual-ou-por-nomes)
      * [Salvar Babas no Celular](#--salvar-babas-no-celular)
    * [Principais Features a Implementar](#principais-futures-implementadas)
      * [Controlar Partidas](#--controlar-partidas)
@@ -110,7 +111,18 @@ Tabela de conteúdos
    <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_players.png?raw=true" height="600" width="auto" alt="edit_name_players">
    <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/btn_draw_by_names.png?raw=true" height="600" width="auto" alt="btn_draw_by_names"> 
 </div>
-	
+
+### - Sortear Partidas
+<ul>
+  <li>Sortear de formas randômica a ordem dos Times do 1º até o último</li>
+  <li>Escolher o 1º e o 2º times como sugestão de primeira partida.</li>
+</ul>
+
+<div display={display:flex}>
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_players.png?raw=true" height="600" width="auto" alt="edit_name_players">
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/btn_draw_by_names.png?raw=true" height="600" width="auto" alt="btn_draw_by_names"> 
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/btn_draw_by_names.png?raw=true" height="600" width="auto" alt="btn_draw_by_names">
+</div>
 		
 ### - Salvar Babas no Celular
 <ul>
