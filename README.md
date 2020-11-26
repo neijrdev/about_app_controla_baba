@@ -1,6 +1,6 @@
 <h1 align="center">Sobre o App Controla Baba</h1>
 <p align="center">
-  <img src="https://github.com/neijrdev/about_app_controla_baba/blob/main/assets/banner_app_menor_to_git.png?raw=true" height="auto" width="600" alt="Logo Controla Baba" 
+  <img src="https://github.com/neijrdev/about_app_controla_baba/blob/main/assets/banner_app_menor_to_git.png?raw=true" height="auto" width="500" alt="Logo Controla Baba" 
 </p>
 
 
@@ -64,9 +64,9 @@ Tabela de conteúdos
 </ul>
 
 <div display={display:flex}>
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/home.png?raw=true" height="600" width="auto" alt="Home Controla Baba" >
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/new_baba.png?raw=true" height="600px"width="auto" alt="Novo Baba" >
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="600px" width="auto" alt="Editar Nome e Data Baba" >
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/home.png?raw=true" height="500" width="auto" alt="Home Controla Baba" >
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/new_baba.png?raw=true" height="500px"width="auto" alt="Novo Baba" >
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="500px" width="auto" alt="Editar Nome e Data Baba" >
 </div>
    
 </p>
@@ -83,9 +83,9 @@ Tabela de conteúdos
 </ul>	
 
 <div display={display:flex}>
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/config_teams.png?raw=true" height="600" width="auto" alt="Nova Config Baba">
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/left_player.png?raw=true" height="600" width="auto" alt="Config Baba Left Player"> 
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="600" width="auto" alt="Logo Controla Baba"> 
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/config_teams.png?raw=true" height="500" width="auto" alt="Nova Config Baba">
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/left_player.png?raw=true" height="500" width="auto" alt="Config Baba Left Player"> 
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_and_date.gif?raw=true" height="500" width="auto" alt="Logo Controla Baba"> 
 </div>
 
 	
@@ -108,8 +108,8 @@ Tabela de conteúdos
 </ul>
 
 <div display={display:flex}>
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_players.png?raw=true" height="600" width="auto" alt="edit_name_players">
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/btn_draw_by_names.png?raw=true" height="600" width="auto" alt="btn_draw_by_names"> 
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_players.png?raw=true" height="500" width="auto" alt="edit_name_players">
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/btn_draw_by_names.png?raw=true" height="500" width="auto" alt="btn_draw_by_names"> 
 </div>
 
 ### - Sortear Partidas
@@ -131,7 +131,7 @@ Tabela de conteúdos
 </ul>
 
 <p align="left">
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/storage_cel.png?raw=true" height="auto" width="300" alt="storage_cel" 
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/storage_cel.png?raw=true" height="500" width="auto" alt="storage_cel" 
 </p>
 	
 ## 🚧 Principais Futures a Implementar:🚀
