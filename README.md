@@ -92,7 +92,7 @@ Tabela de conteúdos
 <div display={display:flex}>
    <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/config_teams.png?raw=true" height="450" width="auto" alt="Nova Config Baba">
    <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/left_player.png?raw=true" height="450" width="auto" alt="Config Baba Left Player"> 
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/config_teams.gif?raw=true" height="450" width="auto" alt="Config Teams Baba"> 
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/config_teams-2.gif?raw=true" height="450" width="auto" alt="Config Teams Baba"> 
 </div>
 
 	
