@@ -169,6 +169,7 @@ Tabela de conteúdos
    <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/resultados_partidas.png?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
 </p>
 	
+	
 ### Como Usar
 <ul>
   <li>App disponivel na Play Store , e pode ser baixado pelo link a seguir ->
@@ -178,6 +179,7 @@ Tabela de conteúdos
     </a>
   </li>
 </ul>
+
 
 ### Pré Requisitos
 <ul>
