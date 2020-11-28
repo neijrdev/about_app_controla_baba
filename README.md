@@ -168,6 +168,17 @@ Tabela de conteúdos
 <p align="left">
    <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/resultados_partidas.png?raw=true" height="auto" width="300" alt="Logo Controla Baba" 
 </p>
+	
+### Como Usar
+<ul>
+  <li>App disponivel na Play Store , e pode ser baixado pelo link a seguir ->
+    <a title="Controla Baba (Controla Partidas de Futebol)" href="https://play.google.com/store/apps/details?id=com.controlababa" rel="nofollow noopener" target="_blank>
+    </a>
+  </li>
+</ul>
+
+
+      
 
 
 
