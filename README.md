@@ -33,7 +33,7 @@ Tabela de conteúdos
      * [Configurar Pontuação das Partidas](#--configura%C3%A7%C3%A3o-da-pontua%C3%A7%C3%A3o-nas-partidas)
      * [Resultados das Partidas](#--resultados-das-partidas)
    * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
+      * [Pre Requisitos](##pr%C3%A9-requisitos)
 
 <!--te-->
 
