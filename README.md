@@ -172,7 +172,7 @@ Tabela de conteúdos
 ### Como Usar
 <ul>
   <li>App disponivel na Play Store , e pode ser baixado pelo link a seguir ->
-    <a style="display:flex; align-items: baseline" height="200" width="auto" title="Controla Baba (Controla Partidas de Futebol)" href="https://play.google.com/store/apps/details?id=com.controlababa" rel="nofollow noopener" target="_blank">
+    <a style="align-items: baseline" height="200" width="auto" title="Controla Baba (Controla Partidas de Futebol)" href="https://play.google.com/store/apps/details?id=com.controlababa" rel="nofollow noopener" target="_blank">
 	<h3>Controla Baba (Controla Partidas de Futebol)</h3>
 	<img src="https://play-lh.googleusercontent.com/qAs6wZ_-WASpNOHpfjQDMOonVDwP8M7NhHceC07BeISMdukmiHbK93UGiVwLKJCVz9s=s180-rw" height="auto" width="50" alt="Controla Baba (Controla Partidas de Futebol)">
     </a>
