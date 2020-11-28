@@ -174,7 +174,7 @@ Tabela de conteúdos
   <li>App disponivel na Play Store , e pode ser baixado pelo link a seguir ->
     <a title="Controla Baba (Controla Partidas de Futebol)" href="https://play.google.com/store/apps/details?id=com.controlababa" rel="nofollow noopener" target="_blank">
     	Controla Baba (Controla Partidas de Futebol)
-	<img src="https://play-lh.googleusercontent.com/qAs6wZ_-WASpNOHpfjQDMOonVDwP8M7NhHceC07BeISMdukmiHbK93UGiVwLKJCVz9s=s180-rw" height="auto" width="50" alt="Controla Baba (Controla Partidas de Futebol)">
+	<img src="https://play-lh.googleusercontent.com/qAs6wZ_-WASpNOHpfjQDMOonVDwP8M7NhHceC07BeISMdukmiHbK93UGiVwLKJCVz9s=s180-rw" height="auto" width="50" alt="Controla Baba (Controla Partidas de Futebol)" style={align-items: baseline}>
     </a>
   </li>
 </ul>
