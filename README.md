@@ -3,10 +3,13 @@
   <img src="https://github.com/neijrdev/about_app_controla_baba/blob/main/assets/banner_app_menor_to_git.png?raw=true" height="auto" width="500" alt="Logo Controla Baba" 
 </p>
 
-<a style="display:flex;"  title="Controla Baba (Controla Partidas de Futebol)" href="https://play.google.com/store/apps/details?id=com.controlababa" target="_blank">
-	<b>Dinsponível na Google Play: Controla Baba (Controla Partidas de Futebol)</b>
-	<img src="https://play-lh.googleusercontent.com/qAs6wZ_-WASpNOHpfjQDMOonVDwP8M7NhHceC07BeISMdukmiHbK93UGiVwLKJCVz9s=s180-rw" height="auto" width="40" alt="Controla Baba (Controla Partidas de Futebol)">
-</a>
+<p align="center">
+  <a style="display:flex;"  title="Controla Baba (Controla Partidas de Futebol)" href="https://play.google.com/store/apps/details?id=com.controlababa" target="_blank">
+    <b>Dinsponível na Google Play: Controla Baba (Controla Partidas de Futebol)</b>
+    <img src="https://play-lh.googleusercontent.com/qAs6wZ_-WASpNOHpfjQDMOonVDwP8M7NhHceC07BeISMdukmiHbK93UGiVwLKJCVz9s=s180-rw" height="auto" width="40"
+     alt="Controla Baba (Controla Partidas de Futebol)">
+  </a>
+</p>
 
 ## Sobre
 <p align="center">O Controla baba é um App Android Mobile, que nasceu com o propósito de tornar a organização dos babas, ou peladas, mais fácil e de uma forma super dinámica e intuitiva.</p>
