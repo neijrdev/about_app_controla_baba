@@ -5,7 +5,7 @@
 
 <p align="center">
   <a style="display:flex;"  title="Controla Baba (Controla Partidas de Futebol)" href="https://play.google.com/store/apps/details?id=com.controlababa" target="_blank">
-    <b>Dinsponível na Google Play: Controla Baba (Controla Partidas de Futebol)</b>
+    <b>Disponível na Google Play: Controla Baba (Controla Partidas de Futebol)</b>
     <img src="https://play-lh.googleusercontent.com/qAs6wZ_-WASpNOHpfjQDMOonVDwP8M7NhHceC07BeISMdukmiHbK93UGiVwLKJCVz9s=s180-rw" height="auto" width="25"
      alt="Controla Baba (Controla Partidas de Futebol)">
   </a>
