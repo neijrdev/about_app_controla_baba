@@ -99,7 +99,6 @@ Tabela de conteúdos
 ### - Sorteio dos Jogadores: (Individual ou Por Nomes)
 <p align="left">
    <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/type_player_draw.png?raw=true" height="450px" width="auto" alt="type_player_draw">
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/draw_players_individual.gif?raw=true" height="450px" width="auto" alt="draw_players_individual" 
 </p>
 	
 <ul>
@@ -107,7 +106,8 @@ Tabela de conteúdos
 </ul>	
 
 <p align="left">
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/btn_draw_individual.png?raw=true" height="auto" width="300" alt="btn_draw_individual"> 
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/btn_draw_individual.png?raw=true" height="450px" width="auto" alt="btn_draw_individual">
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/draw_players_individual.gif?raw=true" height="450px" width="auto" alt="draw_players_individual"> 
 </p>
 	
 
