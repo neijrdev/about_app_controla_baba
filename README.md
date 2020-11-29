@@ -117,7 +117,8 @@ Tabela de conteúdos
 
 <div display={display:flex}>
    <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/edit_name_players.png?raw=true" height="450" width="auto" alt="edit_name_players">
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/btn_draw_by_names.png?raw=true" height="450" width="auto" alt="btn_draw_by_names"> 
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/btn_draw_by_names.png?raw=true" height="450" width="auto" alt="btn_draw_by_names">
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/draw_players_by_name.gif?raw=true" height="450" width="auto" alt="draw_players_by_name">
 </div>
 
 ### - Sortear Partidas
