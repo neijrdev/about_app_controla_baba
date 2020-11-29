@@ -12,7 +12,7 @@
 </p>
 
 ## Sobre
-<p align="center">O Controla baba é um App Android Mobile, que nasceu com o propósito de tornar a organização dos babas, ou peladas, mais fácil e de uma forma super dinámica e intuitiva.</p>
+<p align="center">O Controla baba é um App Android Mobile, que nasceu com o propósito de tornar a organização dos babas, ou peladas, mais fácil e de uma forma super dinâmica e intuitiva.</p>
 
 <h4 align="center"> 
 	🚧  App Controla Baba 🚀 Em construção...  🚧
@@ -35,7 +35,7 @@ Tabela de conteúdos
      * [Sorteio dos Jogadores](#--sorteio-dos-jogadores-individual-ou-por-nomes)
      * [Sorteio Partidas](#--sortear-partidas)
      * [Salvar Babas no Celular](#--salvar-babas-no-celular)
-   * [Principais Features a Implementar](#principais-futures-implementadas)
+   * [Principais Features a Implementar](#principais-features-implementadas)
      * [Controlar Partidas](#--controlar-partidas)
      * [Configurar Pontuação das Partidas](#--configura%C3%A7%C3%A3o-da-pontua%C3%A7%C3%A3o-nas-partidas)
      * [Resultados das Partidas](#--resultados-das-partidas)
@@ -141,7 +141,7 @@ Tabela de conteúdos
    <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/storage_cel.png?raw=true" height="450" width="auto" alt="storage_cel" 
 </p>
 	
-## 🚧 Principais Futures a Implementar:🚀 Em construção... 🚧
+## 🚧 Principais Features a Implementar:🚀 Em construção... 🚧
 
 ### - Controlar Partidas 🚧 Em construção... 🚧
 <ul>
@@ -178,7 +178,7 @@ Tabela de conteúdos
 	
 ### Como Usar
 <ul>
-  <li>App disponivel na Play Store , e pode ser baixado pelo link a seguir ->
+  <li>App disponível na Play Store, e pode ser baixado pelo link a seguir ->
     <a style="display:flex;"  title="Controla Baba (Controla Partidas de Futebol)" href="https://play.google.com/store/apps/details?id=com.controlababa" target="_blank">
 	<b>Controla Baba (Controla Partidas de Futebol)</b>
 	<img src="https://play-lh.googleusercontent.com/qAs6wZ_-WASpNOHpfjQDMOonVDwP8M7NhHceC07BeISMdukmiHbK93UGiVwLKJCVz9s=s180-rw" height="auto" width="40" alt="Controla Baba (Controla Partidas de Futebol)">
@@ -189,7 +189,7 @@ Tabela de conteúdos
 
 ### Pré Requisitos
 <ul>
-  <li>Tem um aparelho com Android 4.1 ou superior</li>
+  <li>Ter um aparelho com Android 4.1 ou superior</li>
 </ul>
 
 
