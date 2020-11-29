@@ -140,7 +140,8 @@ Tabela de conteúdos
 </ul>
 
 <p align="left">
-   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/storage_cel.png?raw=true" height="450" width="auto" alt="storage_cel" 
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/storage_cel.png?raw=true" height="450" width="auto" alt="storage_cel">
+   <img src="https://github.com/neijrdev/app_controla_baba/blob/main/assets/history_memory_babas.gif?raw=true" height="450" width="auto" alt="history_memory_babas" 
 </p>
 	
 ## 🚧 Principais Features a Implementar:🚀 Em construção... 🚧
